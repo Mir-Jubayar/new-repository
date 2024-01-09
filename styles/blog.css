@@ -1,0 +1,181 @@
+.container1 {
+  position: relative;
+}
+
+
+.image {
+   position: relative;
+}
+
+h2 {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+   margin: 0 auto;
+   width: 300px;
+   height: 50px;
+}
+
+.text-block {
+  text-indent: 20px;
+  line-height: 150%;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+  bottom: 120px;
+  right: 200px;
+  background-color: none;
+  color: white;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.text-center {
+  text-align: center;
+}
+
+.place{
+  text-align: center;
+}
+.Date{
+  text-align: center;
+}
+.Time{
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.vanue{
+  
+  position: absolute;
+  display: block;
+  height: 100px;
+  weight: 200px;
+  padding-left: 100px;
+  padding-right: 10px;
+}
+.text-center {
+  text-align: center;
+}
+.offer{
+  color: red;
+  text-align: left;
+  padding-left: 0%;
+  padding-right: 75%;
+}
+.dolor{
+  color: black;
+  text-align: left;
+  padding-left: 0%;
+  padding-right: 70%;
+}
+.dolorsit{
+  color: black;
+  text-align: right;
+  padding-left: 70%;
+  padding-right: 0%;
+}
+.year{
+  color: red;
+  text-align: right;
+  padding-left: 70%;
+  padding-right: 0%;
+
+
+  
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.group96{
+  text-align: right;
+  margin-left: 70%;
+  margin-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding-left:10%;
+  padding-right: 0%;
+}
+.holiday{
+  text-align: center;
+  
+}
+.amet{
+  text-align: center;
+  color: black;
+}
+.beg{
+  position: relative;
+  text-align: right;
+  padding-left: 70%;
+  padding-right: 40%;
+}
+.discount{
+position: relative;
+text-align: center;
+padding-left: 35%;
+}
+.beg{
+  text-align: left;
+}
+.gift{
+  text-align: left;
+  
+}
+{
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+{
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.massege{
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: #000;
+}
